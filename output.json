@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Texas enacts restrictive voting rights overhaul",
+    "description": "Democrats in the state had fled earlier this summer in an effort to stop a vote on the new law.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-58404050",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F1BA/production/_120428816_gettyimages-1229442685.jpg",
+    "publishedAt": "2021-09-07T17:37:20.174989Z",
+    "content": "image captionVoting by car, as this Texan did in 2020, is now banned\r\nTexas Governor Greg Abbott has signed into law an overhaul on voting rights that introduces sweeping restrictions on ways Texans … [+2033 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spanish woman sues after DNA test reveals birth swap error",
+    "description": "Health authorities admit the woman was mistakenly switched with another baby at a hospital in 2002.",
+    "url": "http://www.bbc.co.uk/news/world-europe-58474478",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/346E/production/_120422431_gettyimages-89448957-594x594.jpg",
+    "publishedAt": "2021-09-07T16:52:21.3153294Z",
+    "content": "image captionThe babies were born at the same hospital in northern Spain in 2002\r\nA woman has demanded compensation from health authorities in northern Spain after discovering she was mistakenly swap… [+1888 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Brazil on edge as Bolsonaro supporters march on Congress",
+    "description": "Police are guarding the Supreme Court amid warnings that the president's supporters may try to storm it.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-58479028",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F6CE/production/_120428136_gettyimages-1235104020.jpg",
+    "publishedAt": "2021-09-07T16:22:25.5400737Z",
+    "content": "image captionPolice have erected a cordon around key institutions in Brasilia\r\nPolice are out in force in Brazil's capital, Brasilia, where supporters of far-right President Jair Bolsonaro have respo… [+2461 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Afghanistan: Taliban declare Islamic Emirate and unveil ministers",
+    "description": "A spokesman for the Taliban has named the acting ministers in its new government.",
+    "url": "http://www.bbc.co.uk/news/live/world-58279900",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+    "publishedAt": "2021-09-07T15:37:43.9696364Z",
+    "content": "Helmand Province in the south, where British troops were stationed during the conflict, was seized by the Taliban on 13 August. The provincial capital Lashkar Gah saw some of the heaviest fighting in… [+1445 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Taliban announce new government for Afghanistan",
+    "description": "The caretaker cabinet will be led by one of the militant group's founders.",
+    "url": "http://www.bbc.co.uk/news/world-asia-58479750",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/101AA/production/_120426956_talibanspox.jpg",
+    "publishedAt": "2021-09-07T15:07:25.4541885Z",
+    "content": "The Taliban have announced an interim government in Afghanistan, to be led by one of their founders and with an FBI-wanted militant as interior minister.\r\nThe government will be led by Mullah Mohamma… [+1191 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tripwire boss steps down over support for Texas abortion law",
+    "description": "Tripwire boss John Gibson had said he was \"proud\" of the Supreme Court ruling on Texas abortion.",
+    "url": "http://www.bbc.co.uk/news/technology-58476595",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D9A/production/_120420458_gettyimages-1235025758.jpg",
+    "publishedAt": "2021-09-07T12:22:22.9485143Z",
+    "content": "image captionThe Texas law has proven controversial, prompting protests such as this 1 September rally outside the state capitol\r\nThe president of game-studio Tripwire Interactive has stepped down af… [+3739 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Climate change: Dragonflies spread north in warming world",
+    "description": "The expansion of dragonflies across Britain and Ireland is an indicator of climate change, say experts.",
+    "url": "http://www.bbc.co.uk/news/science-environment-58462181",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F9EC/production/_120408936_emperordragonfly_davesmallshire.jpg",
+    "publishedAt": "2021-09-07T11:07:23.174384Z",
+    "content": "By Helen BriggsBBC Environment correspondent\r\nimage sourceDave Smallshire\r\nimage captionThe emperor dragonfly is expanding north into Scotland and Ireland\r\nDragonflies are moving northwards across Br… [+2879 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Justin Trudeau hit by stones on campaign trail",
+    "description": "The Canadian leader's campaign has been disrupted by protesters angry at a planned vaccine mandate.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-58472456",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141D7/production/_120419328_tv070349909.jpg",
+    "publishedAt": "2021-09-07T07:07:22.1998274Z",
+    "content": "image captionJustin Trudeau has been campaigning ahead of the 20 September vote\r\nCanadian Prime Minister Justin Trudeau has been hit by gravel thrown by protesters during a campaign stop.\r\nHe was ret… [+1617 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mother's reunion with Australian boy lost in bush",
+    "description": "Three-year-old Anthony \"AJ\" Elfalak is recovering with family after going missing for four days.",
+    "url": "http://www.bbc.co.uk/news/world-australia-58472030",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93F9/production/_120418873_p09v7vg5.jpg",
+    "publishedAt": "2021-09-07T05:52:23.3129551Z",
+    "content": "Young, black people working 'three times as hard' Video, 00:02:08Young, black people working 'three times as hard'"
+    },
+   {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Wire star Michael K Williams found dead",
+    "description": "The 54-year-old died from a suspected drug overdose in his New York flat, media reports say.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-58470253",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132EB/production/_120417587_4f9ae8de-d521-439e-bd20-edcc928cb3c0.jpg",
+    "publishedAt": "2021-09-06T21:22:23.4118328Z",
+    "content": "image captionMichael K Williams had openly discussed his struggles with drugs over the years\r\nAmerican actor Michael K Williams, best known for starring in The Wire TV series, has been found dead in … [+442 chars]"
+    }
+    ]
+    }
+    
