@@ -1,3 +1,10 @@
+
+# Master Branch
+This Contains Class based News website.
+
+# Development Branch
+This Contains Functional based News website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
