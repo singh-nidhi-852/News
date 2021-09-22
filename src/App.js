@@ -8,38 +8,51 @@ import {
   Switch,
   Route
 } from "react-router-dom";
+import LoadingBar from 'react-top-loading-bar'
+
 export default class App extends Component {
   pageSize = 9;
+  state = {
+    progress: 10
+  }
+  setProgress = (progress)=>{
+    this.setState({progress:progress});
+  }
   render() {
     return (
       <div>
         
         <Router>
         <NavBar />
+        <LoadingBar
+        height = {3}
+        color='#f11946'
+        progress={this.state.progress}
+        />
           <Switch> 
           <Route exact path="/">
-                <News key="genral" pageSize = {this.pageSize} country="in" category="genral"/>
+                <News setProgress={this.setProgress} key="genral" pageSize = {this.pageSize} country="in" category="genral"/>
             </Route>
             <Route exact path="/buisness">
-                <News key="buisness" pageSize = {this.pageSize} country="in" category="buisness"/>
+                <News setProgress={this.setProgress} key="buisness" pageSize = {this.pageSize} country="in" category="buisness"/>
             </Route>
             <Route exact path="/entertainment">
-                <News key="entertainment" pageSize = {this.pageSize} country="in" category="entertainment"/>
+                <News setProgress={this.setProgress} key="entertainment" pageSize = {this.pageSize} country="in" category="entertainment"/>
             </Route>
             <Route exact path="/genral">
-                <News key="genral" pageSize = {this.pageSize} country="in" category="genral"/>
+                <News setProgress={this.setProgress} key="genral" pageSize = {this.pageSize} country="in" category="genral"/>
             </Route>
             <Route exact path="/health">
-                <News key="health" pageSize = {this.pageSize} country="in" category="health"/>
+                <News setProgress={this.setProgress} key="health" pageSize = {this.pageSize} country="in" category="health"/>
             </Route>
             <Route exact path="/science">
-                <News key="science" pageSize = {this.pageSize} country="in" category="science"/>
+                <News setProgress={this.setProgress} key="science" pageSize = {this.pageSize} country="in" category="science"/>
             </Route>
             <Route exact path="/sports">
-                <News key="sports" pageSize = {this.pageSize} country="in" category="sports"/>
+                <News setProgress={this.setProgress} key="sports" pageSize = {this.pageSize} country="in" category="sports"/>
             </Route>
             <Route exact path="/technology">
-                <News key="technology" pageSize = {this.pageSize} country="in" category="technology"/>
+                <News setProgress={this.setProgress} key="technology" pageSize = {this.pageSize} country="in" category="technology"/>
             </Route>
             
           </Switch>
