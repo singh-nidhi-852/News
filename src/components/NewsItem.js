@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 
 const NewsItem = (props) => {
         let { title, description, imageUrl, newsUrl, author, date, source } = props;
@@ -6,8 +6,8 @@ const NewsItem = (props) => {
             <div className="my-3">
                 <div className="card">
                     <div style={{ diplay: 'flex', justifyContent: "flex-end", position: 'absolute', right:'0'}}>
-                        <span class="badge rounded-pill bg-danger" >{source}
-                            <span class="visually-hidden">unread messages</span>
+                        <span className="badge rounded-pill bg-danger" >{source}
+                            <span className="visually-hidden">unread messages</span>
                         </span>
                     </div>
                     <img src={imageUrl !== '/' ? imageUrl : "https://source.unsplash.com/WLUHO9A_xik/1600x900"} className="" alt="..." />
